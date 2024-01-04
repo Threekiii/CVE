@@ -5,145 +5,154 @@
 
 ## 0x01 项目导航
 
-- 2022.12
+- 2022
 
-  * CVE-2022-3328：Snapd 本地权限提升漏洞通告
-  * CVE-2022-41080 41082：Microsoft Exchange Server OWASSRF漏洞通告
-  * CVE-2022-41966：XStream 拒绝服务漏洞通告
-  * CVE-2022-42475：Fortinet SSL VPN远程代码执行漏洞
-  * CVE-2022-4262：Google Chrome V8类型混淆漏洞通告
-  * CVE-2022-45347：Apache ShardingSphere身份认证绕过漏洞通告
-  * CVE-2022-46169：Cacti命令注入漏洞
-  * CVE-2022-47939：Linux Kernel ksmbd UAF远程代码执行漏洞通告
-- 2023.01
+  - 2022.12
 
-  * CVE-2022-27596：QNAP QTSQuTS hero SQL注入漏洞通告
-  * CVE-2022-39947 35845：Fortinet 命令注入漏洞通告
-  * CVE-2022-43396 44621：Apache Kylin命令注入漏洞通告
-  * CVE-2022-43931：Synology VPN Plus Server越界写入漏洞通告
-  * CVE-2022-45935：Apache James Server信息泄露漏洞通告
-  * CVE-2022-47966：Zoho ManageEngine OnPremise多款产品远程代码执行漏洞通告
-  * CVE-2023-21752：Windows Backup Service权限提升漏洞通告
-  * CVE-2023-21839：WebLogic 远程代码执行漏洞通告
-  * CVE-2023-22602：Apache Shiro身份认证绕过漏洞通告
-  * CVE-2023-23560：Lexmark打印机服务器端请求伪造漏洞通告
-  * VMware vRealize Log Insight多个高危漏洞通告
-- 2023.02
+    * CVE-2022-3328：Snapd 本地权限提升漏洞通告
+    * CVE-2022-41080 41082：Microsoft Exchange Server OWASSRF漏洞通告
+    * CVE-2022-41966：XStream 拒绝服务漏洞通告
+    * CVE-2022-42475：Fortinet SSL VPN远程代码执行漏洞
+    * CVE-2022-4262：Google Chrome V8类型混淆漏洞通告
+    * CVE-2022-45347：Apache ShardingSphere身份认证绕过漏洞通告
+    * CVE-2022-46169：Cacti命令注入漏洞
+    * CVE-2022-47939：Linux Kernel ksmbd UAF远程代码执行漏洞通告
+- 2023
 
-  * 2023-02 补丁日 微软多个漏洞安全更新通告
-  * CVE-2021-42756 CVE-2022-39952：Fortinet 多个漏洞通告
-  * CVE-2023-20858：VMware Carbon Black App Control 远程代码执行漏洞通告
-  * CVE-2023-21608：Adobe Acrobat Reader 任意代码执行漏洞通告
-  * CVE-2023-22374：F5 BIG-IP任意代码执行漏洞通告
-  * CVE-2023-22482 22736：Argo CD 身份验证绕过漏洞通告
-  * CVE-2023-22501：Jira Service Management ServerData Center 身份验证漏洞通告
-  * CVE-2023-23477：IBM WebSphere Application Server远程代码执行漏洞通告
-  * CVE-2023-23529：Apple WebKit任意代码执行漏洞通告
-  * CVE-2023-23752：Joomla未授权访问漏洞通告
-  * CVE-2023-24998：Apache Commons FileUpload拒绝服务漏洞通告
-  * CVE-2023-25194：Apache Kafka Connect 远程代码执行漏洞通告
-  * CVE-2023-25725：HAProxy请求走私漏洞通告
-  * 泛微e-cology9 SQL注入漏洞通告
-- 2023.03
+  - 2023.01
 
-  * 2023-03 补丁日 微软多个漏洞安全更新通告
-  * CVE-2023-0050：GitLab跨站脚本漏洞通告
-  * CVE-2023-20860：Spring Framework身份验证绕过漏洞通告
-  * CVE-2023-21716：Microsoft Word 远程代码执行漏洞通告
-  * CVE-2023-21768：Windows Ancillary Function 本地权限提升漏洞通告
-  * CVE-2023-22809：Sudo权限提升漏洞通告
-  * CVE-2023-23397：Microsoft Outlook权限提升漏洞通告
-  * CVE-2023-23638：Apache Dubbo反序列化漏洞通告
-  * CVE-2023-25610：FortiOS & FortiProxy 远程代码执行漏洞通告
-  * CVE-2023-27898 27905：Jenkins跨站脚本漏洞通告
-  * CVE-2023-28432：MinIO信息泄露漏洞通告
-  * CVE-2023-29059：3CXDesktop App 代码执行漏洞通告
-  * Smartbi远程命令执行漏洞通告
-- 2023.04
+    * CVE-2022-27596：QNAP QTSQuTS hero SQL注入漏洞通告
+    * CVE-2022-39947 35845：Fortinet 命令注入漏洞通告
+    * CVE-2022-43396 44621：Apache Kylin命令注入漏洞通告
+    * CVE-2022-43931：Synology VPN Plus Server越界写入漏洞通告
+    * CVE-2022-45935：Apache James Server信息泄露漏洞通告
+    * CVE-2022-47966：Zoho ManageEngine OnPremise多款产品远程代码执行漏洞通告
+    * CVE-2023-21752：Windows Backup Service权限提升漏洞通告
+    * CVE-2023-21839：WebLogic 远程代码执行漏洞通告
+    * CVE-2023-22602：Apache Shiro身份认证绕过漏洞通告
+    * CVE-2023-23560：Lexmark打印机服务器端请求伪造漏洞通告
+    * VMware vRealize Log Insight多个高危漏洞通告
+  - 2023.02
 
-  * 2023-04 补丁日：Oracle多个产品漏洞安全风险通告
-  * 2023-04 补丁日：微软多个漏洞安全更新通告
-  * CVE-2023-2033：Google Chrome V8类型混淆漏洞通告
-  * CVE-2023-20864 VMware Aria Operations for Logs远程代码执行漏洞
-  * CVE-2023-20869 20870：VMware Workstation&Fusion 漏洞通告
-  * CVE-2023-2136：Google Chrome Skia整型溢出漏洞通告
-  * CVE-2023-27524：Apache Superset身份认证绕过漏洞通告
-  * CVE-2023-29017：vm2沙箱逃逸漏洞通告
-  * 瑞友天翼应用虚拟化系统远程代码执行漏洞通告
-- 2023.05
+    * 2023-02 补丁日 微软多个漏洞安全更新通告
+    * CVE-2021-42756 CVE-2022-39952：Fortinet 多个漏洞通告
+    * CVE-2023-20858：VMware Carbon Black App Control 远程代码执行漏洞通告
+    * CVE-2023-21608：Adobe Acrobat Reader 任意代码执行漏洞通告
+    * CVE-2023-22374：F5 BIG-IP任意代码执行漏洞通告
+    * CVE-2023-22482 22736：Argo CD 身份验证绕过漏洞通告
+    * CVE-2023-22501：Jira Service Management ServerData Center 身份验证漏洞通告
+    * CVE-2023-23477：IBM WebSphere Application Server远程代码执行漏洞通告
+    * CVE-2023-23529：Apple WebKit任意代码执行漏洞通告
+    * CVE-2023-23752：Joomla未授权访问漏洞通告
+    * CVE-2023-24998：Apache Commons FileUpload拒绝服务漏洞通告
+    * CVE-2023-25194：Apache Kafka Connect 远程代码执行漏洞通告
+    * CVE-2023-25725：HAProxy请求走私漏洞通告
+    * 泛微e-cology9 SQL注入漏洞通告
+  - 2023.03
 
-  * 2023-05 补丁日 微软多个漏洞安全更新通告
-  * Apple WebKit 多个漏洞通告
-  * CVE-2023-0386：Linux Kernel 权限提升漏洞通告
-  * CVE-2023-2478：GitLab 代码执行漏洞通告
-  * CVE-2023-2825：GitLab 目录遍历漏洞通告
-  * CVE-2023-29324：Windows MSHTML Platform安全功能绕过漏洞通告
-  * CVE-2023-32233：Linux Kernel 权限提升漏洞通告
-  * CVE-2023-33246：Apache RocketMQ 远程代码执行漏洞通告
-  * 泛微多个漏洞通告
-- 2023.06
+    * 2023-03 补丁日 微软多个漏洞安全更新通告
+    * CVE-2023-0050：GitLab跨站脚本漏洞通告
+    * CVE-2023-20860：Spring Framework身份验证绕过漏洞通告
+    * CVE-2023-21716：Microsoft Word 远程代码执行漏洞通告
+    * CVE-2023-21768：Windows Ancillary Function 本地权限提升漏洞通告
+    * CVE-2023-22809：Sudo权限提升漏洞通告
+    * CVE-2023-23397：Microsoft Outlook权限提升漏洞通告
+    * CVE-2023-23638：Apache Dubbo反序列化漏洞通告
+    * CVE-2023-25610：FortiOS & FortiProxy 远程代码执行漏洞通告
+    * CVE-2023-27898 27905：Jenkins跨站脚本漏洞通告
+    * CVE-2023-28432：MinIO信息泄露漏洞通告
+    * CVE-2023-29059：3CXDesktop App 代码执行漏洞通告
+    * Smartbi远程命令执行漏洞通告
+  - 2023.04
 
-  * 2023-06 补丁日：微软多个漏洞安全更新通告
-  * CVE-2023-1829：Linux Kernel权限提升漏洞通告
-  * CVE-2023-20887：VMware Aria Operations for Networks命令注入漏洞通告
-  * CVE-2023-27997：Fortinet FortiOS SSL-VPN 远程代码执行漏洞通告
-  * CVE-2023-3079：Google V8类型混淆漏洞通告
-  * CVE-2023-3128：Grafana 身份认证绕过漏洞通告
-  * CVE-2023-33299：FortiNAC 反序列化漏洞通告
-  * Nacos 集群 Raft 反序列化漏洞通告
-- 2023.07
+    * 2023-04 补丁日：Oracle多个产品漏洞安全风险通告
+    * 2023-04 补丁日：微软多个漏洞安全更新通告
+    * CVE-2023-2033：Google Chrome V8类型混淆漏洞通告
+    * CVE-2023-20864 VMware Aria Operations for Logs远程代码执行漏洞
+    * CVE-2023-20869 20870：VMware Workstation&Fusion 漏洞通告
+    * CVE-2023-2136：Google Chrome Skia整型溢出漏洞通告
+    * CVE-2023-27524：Apache Superset身份认证绕过漏洞通告
+    * CVE-2023-29017：vm2沙箱逃逸漏洞通告
+    * 瑞友天翼应用虚拟化系统远程代码执行漏洞通告
+  - 2023.05
 
-  * 2023-07 补丁日 微软多个漏洞安全更新通告
-  * Atlassian 多个代码执行漏洞通告
-  * CVE-2023-31248：Linux Kernel 本地权限提升漏洞通告
-  * CVE-2023-34478：Apache Shiro 身份认证绕过漏洞通告
-  * CVE-2023-3519：Citrix ADC Gateway 远程代码执行漏洞通告
-  * CVE-2023-37582：Apache RocketMQ 远程代码执行漏洞通告
-  * CVE-2023-38408：OpenSSH ssh-agent 远程代码执行漏洞通告
-  * CVE-2023-38646：Metabase远程命令执行漏洞通告
-  * Smartbi 多个高危漏洞通告
-  * 泛微E-Cology SQL注入漏洞安全通告
-- 2023.08
+    * 2023-05 补丁日 微软多个漏洞安全更新通告
+    * Apple WebKit 多个漏洞通告
+    * CVE-2023-0386：Linux Kernel 权限提升漏洞通告
+    * CVE-2023-2478：GitLab 代码执行漏洞通告
+    * CVE-2023-2825：GitLab 目录遍历漏洞通告
+    * CVE-2023-29324：Windows MSHTML Platform安全功能绕过漏洞通告
+    * CVE-2023-32233：Linux Kernel 权限提升漏洞通告
+    * CVE-2023-33246：Apache RocketMQ 远程代码执行漏洞通告
+    * 泛微多个漏洞通告
+  - 2023.06
 
-  * CVE-2023-36874：Windows 错误报告服务权限提升漏洞通告
-  * CVE-2023-38831：RARLAB WinRAR代码执行漏洞通告
-  * QNAP 多个高危漏洞通告
-  * Smartbi身份认证绕过漏洞通告-20230803
-  * Smartbi身份认证绕过漏洞通告-20230824
-  * VMware Aria Operations for Networks 身份认证绕过漏洞通告
-- 2023.09
+    * 2023-06 补丁日：微软多个漏洞安全更新通告
+    * CVE-2023-1829：Linux Kernel权限提升漏洞通告
+    * CVE-2023-20887：VMware Aria Operations for Networks命令注入漏洞通告
+    * CVE-2023-27997：Fortinet FortiOS SSL-VPN 远程代码执行漏洞通告
+    * CVE-2023-3079：Google V8类型混淆漏洞通告
+    * CVE-2023-3128：Grafana 身份认证绕过漏洞通告
+    * CVE-2023-33299：FortiNAC 反序列化漏洞通告
+    * Nacos 集群 Raft 反序列化漏洞通告
+  - 2023.07
 
-  * 2023-09 补丁日：微软多个漏洞安全更新通告
-  * CVE-2023-26369：Adobe Acrobat Reader 代码执行漏洞通告
-  * CVE-2023-35359：Windows 内核权限提升漏洞通告
-  * CVE-2023-38146：Windows Themes远程代码执行漏洞通告
-  * CVE-2023-39361：Cacti 前台SQL注入漏洞通告
-  * CVE-2023-42442：JumpServer未授权访问漏洞通告
-  * CVE-2023-42820：JumpServer密码重置漏洞
-  * CVE-2023-4863：Google Chrome webp堆缓冲区溢出漏洞通告
-  * CVE-2023-4998：GitLab 身份认证绕过漏洞通告
-  * CVE-2023-5217：Google Chrome libvpx堆缓冲区溢出漏洞通告
-  * 致远OA前台任意用户密码重置漏洞通告
-- 2023.10
+    * 2023-07 补丁日 微软多个漏洞安全更新通告
+    * Atlassian 多个代码执行漏洞通告
+    * CVE-2023-31248：Linux Kernel 本地权限提升漏洞通告
+    * CVE-2023-34478：Apache Shiro 身份认证绕过漏洞通告
+    * CVE-2023-3519：Citrix ADC Gateway 远程代码执行漏洞通告
+    * CVE-2023-37582：Apache RocketMQ 远程代码执行漏洞通告
+    * CVE-2023-38408：OpenSSH ssh-agent 远程代码执行漏洞通告
+    * CVE-2023-38646：Metabase远程命令执行漏洞通告
+    * Smartbi 多个高危漏洞通告
+    * 泛微E-Cology SQL注入漏洞安全通告
+  - 2023.08
 
-  * 2023-10 补丁日 Oracle多个产品漏洞安全风险通告
-  * 2023-10 补丁日 微软多个漏洞安全更新通告
-  * Apache ActiveMQ远程代码执行漏洞通告
-  * CVE-2023-20198：Cisco IOS XE Web UI 权限提升漏洞通告
-  * CVE-2023-34051：VMware Aria Operations for Logs 远程代码执行漏洞通告
-  * CVE-2023-36802：Microsoft 流式处理代理权限提升漏洞通告
-  * CVE-2023-42824：Apple iOS iPadOS 本地权限提升漏洞通告
-  * CVE-2023-46747：F5 BIG-IP 远程代码执行漏洞通告
-  * CVE-2023-4966：Citrix NetScaler信息泄露漏洞通告
-- 2023.11
+    * CVE-2023-36874：Windows 错误报告服务权限提升漏洞通告
+    * CVE-2023-38831：RARLAB WinRAR代码执行漏洞通告
+    * QNAP 多个高危漏洞通告
+    * Smartbi身份认证绕过漏洞通告-20230803
+    * Smartbi身份认证绕过漏洞通告-20230824
+    * VMware Aria Operations for Networks 身份认证绕过漏洞通告
+  - 2023.09
 
-  * 2023-11 补丁日：微软多个漏洞安全更新通告
-  * CVE-2023-22518：Atlassian Confluence身份认证绕过漏洞通告
-  * CVE-2023-4357：Google Chrome 信息泄露漏洞通告
-  * CVE-2023-6345：Google Chrome skia整数溢出漏洞通告
-- 2023.12
+    * 2023-09 补丁日：微软多个漏洞安全更新通告
+    * CVE-2023-26369：Adobe Acrobat Reader 代码执行漏洞通告
+    * CVE-2023-35359：Windows 内核权限提升漏洞通告
+    * CVE-2023-38146：Windows Themes远程代码执行漏洞通告
+    * CVE-2023-39361：Cacti 前台SQL注入漏洞通告
+    * CVE-2023-42442：JumpServer未授权访问漏洞通告
+    * CVE-2023-42820：JumpServer密码重置漏洞
+    * CVE-2023-4863：Google Chrome webp堆缓冲区溢出漏洞通告
+    * CVE-2023-4998：GitLab 身份认证绕过漏洞通告
+    * CVE-2023-5217：Google Chrome libvpx堆缓冲区溢出漏洞通告
+    * 致远OA前台任意用户密码重置漏洞通告
+  - 2023.10
 
-  * CVE-2022-41678：Apache ActiveMQ Jolokia 远程代码执行漏洞通告
+    * 2023-10 补丁日 Oracle多个产品漏洞安全风险通告
+    * 2023-10 补丁日 微软多个漏洞安全更新通告
+    * Apache ActiveMQ远程代码执行漏洞通告
+    * CVE-2023-20198：Cisco IOS XE Web UI 权限提升漏洞通告
+    * CVE-2023-34051：VMware Aria Operations for Logs 远程代码执行漏洞通告
+    * CVE-2023-36802：Microsoft 流式处理代理权限提升漏洞通告
+    * CVE-2023-42824：Apple iOS iPadOS 本地权限提升漏洞通告
+    * CVE-2023-46747：F5 BIG-IP 远程代码执行漏洞通告
+    * CVE-2023-4966：Citrix NetScaler信息泄露漏洞通告
+  - 2023.11
+
+    * 2023-11 补丁日：微软多个漏洞安全更新通告
+    * CVE-2023-22518：Atlassian Confluence身份认证绕过漏洞通告
+    * CVE-2023-4357：Google Chrome 信息泄露漏洞通告
+    * CVE-2023-6345：Google Chrome skia整数溢出漏洞通告
+  - 2023.12
+
+    * 2023-12 补丁日：微软多个漏洞安全更新通告
+    * CVE-2022-41678：Apache ActiveMQ Jolokia 远程代码执行漏洞通告
+    * CVE-2023-49070：Apache OFBiz 未授权远程代码执行漏洞通告
+    * CVE-2023-50164：Apache Struts 代码执行漏洞通告
+    * CVE-2023-51467：Apache OFBiz 未授权远程代码执行漏洞通告
+
 ## 0x02 声明
 
 本项目收集CVE漏洞预警/POC/EXP均源于互联网：
