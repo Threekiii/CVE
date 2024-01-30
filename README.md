@@ -152,7 +152,12 @@
     * CVE-2023-49070：Apache OFBiz 未授权远程代码执行漏洞通告
     * CVE-2023-50164：Apache Struts 代码执行漏洞通告
     * CVE-2023-51467：Apache OFBiz 未授权远程代码执行漏洞通告
+- 2024.01
 
+  * 2024-01 补丁日：微软多个漏洞安全更新通告
+  * CVE-2023-22527：Atlassian Confluence 远程代码执行漏洞通告
+  * CVE-2024-0204：GoAnywhere MFT 身份认证绕过漏洞通告
+  * CVE-2024-0519：Google Chrome V8越界访问漏洞通告
 ## 0x02 声明
 
 本项目收集CVE漏洞预警/POC/EXP均源于互联网：
