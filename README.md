@@ -163,6 +163,11 @@
   * 2024-02 补丁日：微软多个漏洞安全更新通告
   * CVE-2024-21413：Microsoft Outlook 远程代码执行漏洞通告
   * CVE-2024-21626：runc容器逃逸漏洞通告
+  * CVE-2024-25600：WordPress Bricks Builder远程命令执行漏洞通告
+- 2024.03
+
+  * CVE-2024-25065：Apache OFBiz目录遍历漏洞通告
+  * CVE-2024-27198：JetBrains TeamCity 身份验证绕过漏洞通告
 ## 0x02 声明
 
 本项目收集CVE漏洞预警/POC/EXP均源于互联网：
