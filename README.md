@@ -168,11 +168,26 @@
 
   * CVE-2024-25065：Apache OFBiz目录遍历漏洞通告
   * CVE-2024-27198：JetBrains TeamCity 身份验证绕过漏洞通告
+- 2024.04
+
+  * 2024-04 补丁日：Oracle多个产品漏洞安全风险通告
+  * CVE-2024-26026：F5 BIG-IP Next Central Manager SQL注入漏洞
+  * CVE-2024-32113：Apache OFBiz 目录遍历致代码执行漏洞
+  * CVE-2024-32114：Apache ActiveMQ Jolokia REST API 未授权访问漏洞
+- 2024.05
+
+  * CVE-2024-21683：Atlassian Confluence 登陆后代码执行漏洞
+  * CVE-2024-22120：Zabbix Server Audit Log SQL 注入漏洞
+  * CVE-2024-26026：F5 BIG-IP Next Central Manager SQL注入漏洞
+  * CVE-2024-32113：Apache OFBiz 目录遍历致代码执行漏洞
+  * CVE-2024-32640：Mura CMS processAsyncObject SQL注入漏洞
+  * CVE-2024-4956：Nexus Repository 3 目录遍历与文件读取漏洞
 ## 0x02 声明
 
 本项目收集CVE漏洞预警/POC/EXP均源于互联网：
 
 - [360 CERT](https://cert.360.cn/)
+- [阿里云漏洞库](https://avd.aliyun.com/)
 - [长亭技术沙盒](https://www.chaitin.cn/zh/)
 - [PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github)
   
