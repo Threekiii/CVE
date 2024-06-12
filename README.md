@@ -178,10 +178,17 @@
 
   * CVE-2024-21683：Atlassian Confluence 登陆后代码执行漏洞
   * CVE-2024-22120：Zabbix Server Audit Log SQL 注入漏洞
+  * CVE-2024-23692：Rejetto HFS 2.x 远程代码执行漏洞
+  * CVE-2024-24919：CheckPoint Gateway 文件读取漏洞
   * CVE-2024-26026：F5 BIG-IP Next Central Manager SQL注入漏洞
   * CVE-2024-32113：Apache OFBiz 目录遍历致代码执行漏洞
   * CVE-2024-32640：Mura CMS processAsyncObject SQL注入漏洞
   * CVE-2024-4956：Nexus Repository 3 目录遍历与文件读取漏洞
+- 2024.06
+
+  * CVE-2024-36104：Apache OFBiz 目录遍历致代码执行漏洞
+  * CVE-2024-36522：Apache Wicket XSLT 代码执行漏洞
+  * CVE-2024-4577：PHP CGI Windows平台远程代码执行漏洞
 ## 0x02 声明
 
 本项目收集CVE漏洞预警/POC/EXP均源于互联网：
