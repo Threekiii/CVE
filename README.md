@@ -192,8 +192,30 @@
   * CVE-2024-4577：PHP CGI Windows平台远程代码执行漏洞
 - 2024.07
 
+  * CVE-2024-23321：Apache RocketMQ 敏感信息泄露漏洞
   * CVE-2024-36401：GeoServer property 表达式注入代码执行漏洞
+  * CVE-2024-36991：Splunk Enterprise Windows平台 messaging 目录遍历漏洞
+  * CVE-2024-37084：Spring Cloud Data Flow 远程代码执行漏洞
+  * CVE-2024-3807：Windows 远程桌面授权服务 远程代码执行漏洞
   * CVE-2024-6387：OpenSSH Server 远程代码执行漏洞
+  * CVE-2024-6730：SparkShop存在任意文件上传漏洞
+- 2024.08
+
+  * CVE-2024-21689：Atlassian Bamboo 远程代码执行漏洞
+  * CVE-2024-37287：Kibana 原型链代码执行漏洞
+  * CVE-2024-38856：Apache OFBiz 代码执行漏洞
+  * CVE-2024-43044：Jenkins agent connections 文件读取漏洞
+  * Nacos Jraft 文件读写漏洞
+- 2024.09
+
+  * CVE-2024-29847：Ivanti Endpoint Manager Agent Portal 存在反序列化漏洞
+  * CVE-2024-37285：Kibana YAML 反序列化代码执行漏洞
+  * CVE-2024-37288：Kibana 8.15.1 Amazon Bedrock YAML 反序列化漏洞
+  * CVE-2024-38816：Spring Framework 特定条件下目录遍历漏洞
+  * CVE-2024-45195：Apache OFBiz 远程代码执行漏洞
+  * CVE-2024-45409：Gitlab Ruby-SAML 身份认证绕过漏洞
+  * CVE-2024-45507：Apache OFBiz SSRF致代码执行漏洞
+  * CVE-2024-9014：pgAdmin4 OAuth2 client ID与secret敏感信息泄漏漏洞
 ## 0x02 声明
 
 本项目收集CVE漏洞预警/POC/EXP均源于互联网：
