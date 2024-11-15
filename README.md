@@ -6,6 +6,8 @@
 ## 0x01 项目导航
   - 2024.10
      *  CVE-2024-38819：Spring Framework 特定条件下目录遍历漏洞.md
+     *  CVE-2024-50340：Symfony runtime 变量可控漏洞.md
+     *  CVE-2024-51504：Apache ZooKeeper Admin Server IPAuthenticationProvider 认证绕过漏洞.md
      *  CVE-2024-45216：Apache Solr 认证绕过漏洞.md
      *  CVE-2024-51567：CyberPanel upgrademysqlstatus 远程命令执行漏洞.md
      *  CVE-2024-47575：Fortinet FortiManager 身份认证绕过漏洞.md
