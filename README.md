@@ -4,10 +4,19 @@
 无exp/poc，部分包含修复方案
 
 ## 0x01 项目导航
-  - 2024.10
-     *  CVE-2024-38819：Spring Framework 特定条件下目录遍历漏洞.md
+  - 2024.12
+     *  CVE-2024-50379：Apache Tomcat 条件竞争文件上传漏洞.md
+     *  CVE-2024-53677：Apache Struts FileUploadInterceptor 目录遍历与文件上传漏洞.md
+
+  - 2024.11
+     *  CVE-2024-47208：Apache OFBiz Groovy表达式注入漏洞.md
+     *  CVE-2024-42327：Zabbix user.get API SQL 注入漏洞.md
      *  CVE-2024-50340：Symfony runtime 变量可控漏洞.md
      *  CVE-2024-51504：Apache ZooKeeper Admin Server IPAuthenticationProvider 认证绕过漏洞.md
+     *  CVE-2024-0012：Palo Alto Networks PAN-OS Management Web Interface 权限绕过漏洞.md
+
+  - 2024.10
+     *  CVE-2024-38819：Spring Framework 特定条件下目录遍历漏洞.md
      *  CVE-2024-45216：Apache Solr 认证绕过漏洞.md
      *  CVE-2024-51567：CyberPanel upgrademysqlstatus 远程命令执行漏洞.md
      *  CVE-2024-47575：Fortinet FortiManager 身份认证绕过漏洞.md
