@@ -5,6 +5,9 @@
 无 exp/poc，部分包含修复方案
 
 ## 0x01 项目导航
+  - 2025.02
+     *  CVE-2025-0108：Palo Alto Networks PAN-OS Management 管理端权限绕过漏洞.md
+
   - 2025.01
      *  CVE-2025-0282：Ivanti Connect Secure 栈溢出漏洞.md
      *  CVE-2025-24367：Cacti 任意文件创建致远程代码执行漏洞.md
@@ -13,6 +16,7 @@
   - 2024.12
      *  CVE-2024-50379：Apache Tomcat 条件竞争文件上传漏洞.md
      *  CVE-2024-43441：Apache HugeGraph-Server JWT 权限绕过漏洞.md
+     *  CVE-2024-53376：Cyber​​Panel操作系统命令注入漏洞.md
      *  CVE-2024-56145：Craft CMS register_argc_argv 模板注入代码执行漏洞.md
      *  CVE-2024-56337：Apache Tomcat 条件竞争文件上传漏洞.md
      *  CVE-2024-53677：Apache Struts FileUploadInterceptor 目录遍历与文件上传漏洞.md
