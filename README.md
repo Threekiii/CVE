@@ -7,6 +7,7 @@
 ## 0x01 项目导航
   - 2025.02
      *  CVE-2025-0108：Palo Alto Networks PAN-OS Management 管理端权限绕过漏洞.md
+     *  CVE-2024-48248：NAKIVO Backup & Replication 任意文件读取漏洞.md
 
   - 2025.01
      *  CVE-2025-0282：Ivanti Connect Secure 栈溢出漏洞.md
