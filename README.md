@@ -5,6 +5,10 @@
 无 exp/poc，部分包含修复方案
 
 ## 0x01 项目导航
+  - 2025.03
+     *  VMware ESXi & Workstation & Fusion 多个高危漏洞.md
+     *  CVE-2025-24813：Apache Tomcat Partial PUT远程代码执行漏洞.md
+
   - 2025.02
      *  CVE-2025-0108：Palo Alto Networks PAN-OS Management 管理端权限绕过漏洞.md
      *  CVE-2024-48248：NAKIVO Backup & Replication 任意文件读取漏洞.md
@@ -244,9 +248,8 @@
      *  CVE-2022-4262：Google Chrome V8类型混淆漏洞通告.md
 ## 0x02 声明
 
-本项目收集 CVE 漏洞预警/POC/EXP 均源于互联网：
+本项目收集 CVE 漏洞预警均源于互联网：
 
 - [360 CERT](https://cert.360.cn/)
 - [阿里云漏洞库](https://avd.aliyun.com/)
-- [长亭技术沙盒](https://www.chaitin.cn/zh/)
-- [PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github)
+- [长亭安全应急响应中心](https://stack.chaitin.com/vuldb/index)
