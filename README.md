@@ -7,6 +7,7 @@
 ## 0x01 项目导航
   - 2025.03
      *  VMware ESXi & Workstation & Fusion 多个高危漏洞.md
+     *  CVE-2025-29927：Next.js 中间件权限绕过漏洞.md
      *  CVE-2025-24813：Apache Tomcat Partial PUT远程代码执行漏洞.md
 
   - 2025.02
