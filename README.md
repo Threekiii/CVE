@@ -7,8 +7,15 @@
 ## 0x01 项目导航
   - 2025.03
      *  VMware ESXi & Workstation & Fusion 多个高危漏洞.md
+     *  CVE-2025-2825：Crushftp 认证绕过漏洞.md
      *  CVE-2025-29927：Next.js 中间件权限绕过漏洞.md
+     *  CVE-2025-30208：Vite开发服务器任意文件读取漏洞.md
+     *  CVE-2025-24514：Kubernetes ingress-nginx controller auth-url 配置注入漏洞.md
+     *  CVE-2025-1974：Kubernetes Ingress-nginx admission 远程代码执行漏洞.md
+     *  CVE-2025-1098：Kubernetes Ingress-nginx mirror-target和mirror-host 配置注入漏洞.md
+     *  CVE-2025-24513：Kubernetes ingress-nginx auth secret file 目录遍历漏洞.md
      *  CVE-2025-24813：Apache Tomcat Partial PUT远程代码执行漏洞.md
+     *  CVE-2025-1097：Kubernetes Ingress-nginx auth-tls-match-cn 配置注入漏洞.md
 
   - 2025.02
      *  CVE-2025-0108：Palo Alto Networks PAN-OS Management 管理端权限绕过漏洞.md
