@@ -1,10 +1,17 @@
 # CVE
 
-**【免责声明】本仓库所涉及的技术、思路和工具仅供安全技术研究，任何人不得将其用于非授权渗透测试，不得将其用于非法用途和盈利，否则后果自行承担。**
+**❗【免责声明】本项目所涉及的技术、思路和工具仅供学习，任何人不得将其用于非法用途和盈利，不得将其用于非授权渗透测试，否则后果自行承担，与本项目无关。 使用本项目前请先阅读 [法律法规](https://github.com/Threekiii/Awesome-Laws)。**
 
-无 exp/poc，部分包含修复方案
+_Disclaimer: The technologies, concepts, and tools provided in this Git repository are intended for educational and research purposes only. Any use for illegal activities, unauthorized penetration testing, or commercial purposes is strictly prohibited. Please read the [Awesome-Lows](https://github.com/Threekiii/Awesome-Laws) before using this repository._
+
+📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.04
+     *  CVE-2025-31125：Vite开发服务器任意文件读取漏洞.md
+     *  CVE-2025-3248：Langflow code 代码执行漏洞.md
+     *  CVE-2025-31486：Vite开发服务器任意文件读取漏洞.md
+
   - 2025.03
      *  VMware ESXi & Workstation & Fusion 多个高危漏洞.md
      *  CVE-2025-2825：Crushftp 认证绕过漏洞.md
