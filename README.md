@@ -8,9 +8,13 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 ## 0x01 项目导航
   - 2025.04
-     *  CVE-2025-31125：Vite开发服务器任意文件读取漏洞.md
+     *  CVE-2025-34028：Commvault SSRF 致代码执行漏洞.md
      *  CVE-2025-3248：Langflow code 代码执行漏洞.md
-     *  CVE-2025-31486：Vite开发服务器任意文件读取漏洞.md
+     *  CVE-2025-31486：Vite 开发服务器任意文件读取漏洞.md
+     *  CVE-2025-31125：Vite 开发服务器任意文件读取漏洞.md
+     *  CVE-2025-32432：Craft CMS generate-transform 反序列化代码执行漏洞.md
+     *  CVE-2025-31324：SAP Netweaver metadatauploader 代码执行漏洞.md
+     *  browser-use WebUI pickle 反序列化漏洞.md
 
   - 2025.03
      *  VMware ESXi & Workstation & Fusion 多个高危漏洞.md
