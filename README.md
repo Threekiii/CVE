@@ -7,6 +7,10 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.05
+     *  Ivanti Endpoint Manager Mobile 模版注入远程代码执行漏洞 CVE-2025-4428.md
+     *  Apache IoTDB UDF 远程代码执行漏洞 CVE-2024-24780.md
+
   - 2025.04
      *  CVE-2025-34028：Commvault SSRF 致代码执行漏洞.md
      *  CVE-2025-3248：Langflow code 代码执行漏洞.md
