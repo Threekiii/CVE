@@ -10,6 +10,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
   - 2025.05
      *  Ivanti Endpoint Manager Mobile 模版注入远程代码执行漏洞 CVE-2025-4428.md
      *  Apache IoTDB UDF 远程代码执行漏洞 CVE-2024-24780.md
+     *  vLLM PyNcclPipe pickle反序列化漏洞 CVE-2025-47277.md
 
   - 2025.04
      *  CVE-2025-34028：Commvault SSRF 致代码执行漏洞.md
