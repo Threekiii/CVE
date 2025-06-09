@@ -7,10 +7,17 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.06
+     *  CVE-2025-1750：llama_index DuckDBVectorStore SQL 注入.md
+     *  CVE-2025-49002：Dataease H2 数据库远程代码执行漏洞.md
+     *  CVE-2025-49113：Roundcube Webmail upload.php 反序列化代码执行漏洞.md
+     *  CVE-2025-49001：Dataease JWT 认证绕过漏洞.md
+
   - 2025.05
-     *  Ivanti Endpoint Manager Mobile 模版注入远程代码执行漏洞 CVE-2025-4428.md
-     *  Apache IoTDB UDF 远程代码执行漏洞 CVE-2024-24780.md
-     *  vLLM PyNcclPipe pickle反序列化漏洞 CVE-2025-47277.md
+     *  CVE-2025-4428：Ivanti Endpoint Manager Mobile 模版注入远程代码执行漏洞.md
+     *  CVE-2024-24780：Apache IoTDB UDF 远程代码执行漏洞.md
+     *  CVE-2025-47277：vLLM PyNcclPipe pickle反序列化漏洞.md
+     *  CVE-2025-48827：vBulletin replaceAdTemplat 远程代码执行漏洞.md
 
   - 2025.04
      *  CVE-2025-34028：Commvault SSRF 致代码执行漏洞.md
