@@ -11,7 +11,10 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  CVE-2025-1750：llama_index DuckDBVectorStore SQL 注入.md
      *  CVE-2024-29198：GeoServer TestWFSpost SSRF 漏洞.md
      *  CVE-2025-27818：Apache Kafka Client LdapLoginModule 配置代码执行漏洞.md
+     *  CVE-2025-6018：SUSE 15 PAM 本地提权漏洞.md
+     *  CVE-2025-6019：libblockdev 权限提升漏洞.md
      *  CVE-2025-30220：Geoserver GeoTools XXE 漏洞.md
+     *  CVE-2025-49596：MCP Inspector 未授权访问致代码执行漏洞.md
      *  CVE-2025-49002：Dataease H2 数据库远程代码执行漏洞.md
      *  CVE-2025-49113：Roundcube Webmail upload.php 反序列化代码执行漏洞.md
      *  CVE-2025-49001：Dataease JWT 认证绕过漏洞.md
