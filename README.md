@@ -7,6 +7,21 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.08
+     *  CVE-2025-23319：Triton Inference Server 越界内存写入致代码执行漏洞.md
+     *  CVE-2025-54424：1Panel 证书验证绕过导致任意命令执行漏洞.md
+
+  - 2025.07
+     *  CVE-2025-23266：NVIDIA Container Toolkit 容器逃逸漏洞.md
+     *  CVE-2025-53689：Apache Jackrabbit XXE 漏洞.md
+     *  CVE-2025-49493：Akamai CloudTest soap XXE 漏洞.md
+     *  CVE-2025-8266：ChanCMS getArticle 代码注入漏洞.md
+     *  CVE-2025-53770：Microsoft SharePoint Server 远程代码执行漏洞.md
+     *  CVE-2025-32023：Redis hyperloglog 越界写入致远程代码执行漏洞.md
+     *  CVE-2025-32462：sudo < 1.9.17p1 host 选项本地提权漏洞.md
+     *  CVE-2025-32463：sudo < 1.9.17p1 chroot 本地提权漏洞.md
+     *  CVE-2025-25257：Fortinet FortiWeb Fabric Connector SQL 注入漏洞.md
+
   - 2025.06
      *  CVE-2025-1750：llama_index DuckDBVectorStore SQL 注入.md
      *  CVE-2024-29198：GeoServer TestWFSpost SSRF 漏洞.md
@@ -14,9 +29,12 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  CVE-2025-6018：SUSE 15 PAM 本地提权漏洞.md
      *  CVE-2025-6019：libblockdev 权限提升漏洞.md
      *  CVE-2025-30220：Geoserver GeoTools XXE 漏洞.md
+     *  CVE-2025-49132：Pterodactyl locale.json 代码执行漏洞.md
+     *  CVE-2024-56731：Gogs 符号连接致远程命令注入漏洞.md
      *  CVE-2025-49596：MCP Inspector 未授权访问致代码执行漏洞.md
      *  CVE-2025-49002：Dataease H2 数据库远程代码执行漏洞.md
      *  CVE-2025-49113：Roundcube Webmail upload.php 反序列化代码执行漏洞.md
+     *  CVE-2025-53002：Llama-Factory vhead_file 代码执行漏洞.md
      *  CVE-2025-49001：Dataease JWT 认证绕过漏洞.md
 
   - 2025.05
@@ -129,6 +147,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
   - 2024.03
      *  CVE-2024-27198：JetBrains TeamCity 身份验证绕过漏洞通告.md
      *  CVE-2024-25065：Apache OFBiz目录遍历漏洞通告.md
+     *  CVE-2024-28752：Apache CXF Aegis databinding SSRF.md
 
   - 2024.02
      *  CVE-2024-25600：WordPress Bricks Builder远程命令执行漏洞通告.md
