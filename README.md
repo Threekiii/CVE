@@ -8,6 +8,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 ## 0x01 项目导航
   - 2025.08
+     *  CVE-2025-25231：Omnissa Workspace ONE UEM 敏感信息泄漏漏洞.md
      *  CVE-2025-23319：Triton Inference Server 越界内存写入致代码执行漏洞.md
      *  CVE-2025-54424：1Panel 证书验证绕过导致任意命令执行漏洞.md
 
