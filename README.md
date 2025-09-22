@@ -7,6 +7,11 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.09
+     *  Flowise get-upload-file 任意文件读取漏洞.md
+     *  CVE-2025-59037：DuckDB NPM 包供应链投毒事件.md
+     *  CVE-2025-58434：Flowise reset-password 任意用户密码重置漏洞.md
+
   - 2025.08
      *  CVE-2025-25231：Omnissa Workspace ONE UEM 敏感信息泄漏漏洞.md
      *  CVE-2025-23319：Triton Inference Server 越界内存写入致代码执行漏洞.md
