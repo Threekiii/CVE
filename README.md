@@ -7,6 +7,13 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.10
+     *  CVE-2025-61666：Traccar 任意文件读取漏洞.md
+     *  CVE-2025-49844：Redis LUA UAF 远程代码执行漏洞.md
+     *  CVE-2025-59287：Windows 服务器更新服务 (WSUS) 远程代码执行漏洞.md
+     *  CVE-2025-62712：JumpServer 连接令牌泄漏漏洞.md
+     *  CVE-2025-52472：xwiki orderField HQL注入漏洞.md
+
   - 2025.09
      *  Flowise get-upload-file 任意文件读取漏洞.md
      *  CVE-2025-59037：DuckDB NPM 包供应链投毒事件.md
