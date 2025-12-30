@@ -7,6 +7,20 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2025.12
+     *  CVE-2025-68613：n8n 表达式沙箱逃逸漏洞.md
+     *  CVE-2025-8110：Gogs 符号连接致代码执行漏洞.md
+     *  CVE-2025-65964：n8n Git Node 自定义Hook 代码执行漏洞.md
+     *  CVE-2025-55182：React Server Components 反序列化远程代码执行漏洞.md
+     *  CVE-2025-66478：Next.js React Server Components 远程代码执行漏洞.md
+
+  - 2025.11
+     *  CVE-2025-52565：Runc console 竞争导容器逃逸漏洞.md
+     *  CVE-2025-52881：Runc procfs 容器逃逸漏洞.md
+     *  CVE-2025-55449：AstrBot JWT认证绕过漏洞.md
+     *  CVE-2025-64446：Fortiweb 身份认证绕过漏洞.md
+     *  CVE-2025-31133：Runc masked path 条件竞争容器逃逸漏洞.md
+
   - 2025.10
      *  CVE-2025-61666：Traccar 任意文件读取漏洞.md
      *  CVE-2025-49844：Redis LUA UAF 远程代码执行漏洞.md
