@@ -7,6 +7,9 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2026.01
+     *  CVE-2025-68664：LangChain 序列化注入漏洞.md
+
   - 2025.12
      *  CVE-2025-68613：n8n 表达式沙箱逃逸漏洞.md
      *  CVE-2025-8110：Gogs 符号连接致代码执行漏洞.md
