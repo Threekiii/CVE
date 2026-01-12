@@ -9,6 +9,8 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 ## 0x01 项目导航
   - 2026.01
      *  CVE-2025-68664：LangChain 序列化注入漏洞.md
+     *  CVE-2025-68668：n8n 远程代码执行漏洞.md
+     *  CVE-2025-14847：MongoDB Zlib 压缩协议堆内存信息泄露漏洞.md
 
   - 2025.12
      *  CVE-2025-68613：n8n 表达式沙箱逃逸漏洞.md
@@ -339,3 +341,4 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 - [360 CERT](https://cert.360.cn/)
 - [阿里云漏洞库](https://avd.aliyun.com/)
 - [长亭安全应急响应中心](https://stack.chaitin.com/vuldb/index)
+- [腾讯安全云鼎实验室](https://cloudsec.tencent.com/home/)
