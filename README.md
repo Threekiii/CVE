@@ -8,11 +8,16 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 ## 0x01 项目导航
   - 2026.01
+     *  CVE-2025-67303：ComfyUI-Manager API 未授权访问漏洞.md
+     *  CVE-2025-68493：Apache Struts XWork 组件 XML外部实体注入漏洞.md
      *  CVE-2025-68664：LangChain 序列化注入漏洞.md
      *  CVE-2025-68668：n8n 远程代码执行漏洞.md
+     *  CVE-2026-21858：n8n Webhook 致远程代码执行漏洞.md
      *  CVE-2025-14847：MongoDB Zlib 压缩协议堆内存信息泄露漏洞.md
+     *  CVE-2026-22812：OpenCode 远程代码执行漏洞.md
 
   - 2025.12
+     *  CVE-2025-34291：Langflow <= 1.6.9 CORS 配置错误导致令牌劫持和 RCE.md
      *  CVE-2025-68613：n8n 表达式沙箱逃逸漏洞.md
      *  CVE-2025-8110：Gogs 符号连接致代码执行漏洞.md
      *  CVE-2025-65964：n8n Git Node 自定义Hook 代码执行漏洞.md
@@ -138,6 +143,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  CVE-2024-38816：Spring Framework 特定条件下目录遍历漏洞.md
 
   - 2024.08
+     *  CVE-2024-45436：Ollama extractFromZipFile 目录穿越漏洞.md
      *  Nacos Jraft 文件读写漏洞.md
      *  CVE-2024-43044：Jenkins agent connections 文件读取漏洞.md
      *  CVE-2024-37287：Kibana 原型链代码执行漏洞.md
@@ -342,3 +348,4 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 - [阿里云漏洞库](https://avd.aliyun.com/)
 - [长亭安全应急响应中心](https://stack.chaitin.com/vuldb/index)
 - [腾讯安全云鼎实验室](https://cloudsec.tencent.com/home/)
+- [奇安信 CERT](https://ti.qianxin.com/)
