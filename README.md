@@ -12,11 +12,13 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  CVE-2025-68493：Apache Struts XWork 组件 XML外部实体注入漏洞.md
      *  CVE-2025-68664：LangChain 序列化注入漏洞.md
      *  CVE-2025-68668：n8n 远程代码执行漏洞.md
+     *  CVE-2026-24061：GNU InetUtils telnetd 远程认证绕过漏洞.md
      *  CVE-2026-21858：n8n Webhook 致远程代码执行漏洞.md
      *  CVE-2025-14847：MongoDB Zlib 压缩协议堆内存信息泄露漏洞.md
      *  CVE-2026-22812：OpenCode 远程代码执行漏洞.md
 
   - 2025.12
+     *  CVE-2025-68477：Langflow 服务器端请求伪造漏洞.md
      *  CVE-2025-34291：Langflow <= 1.6.9 CORS 配置错误导致令牌劫持和 RCE.md
      *  CVE-2025-68613：n8n 表达式沙箱逃逸漏洞.md
      *  CVE-2025-8110：Gogs 符号连接致代码执行漏洞.md
