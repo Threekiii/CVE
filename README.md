@@ -8,7 +8,6 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 ## 0x01 项目导航
   - 2026.01
-     *  Moltbot（Clawdbot）Gateway 未授权访问漏洞.md
      *  CVE-2025-67303：ComfyUI-Manager API 未授权访问漏洞.md
      *  CVE-2025-68493：Apache Struts XWork 组件 XML外部实体注入漏洞.md
      *  CVE-2026-21962：Oracle WebLogic Server Proxy Plug-in 身份认证绕过漏洞.md
@@ -20,6 +19,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  CVE-2025-14847：MongoDB Zlib 压缩协议堆内存信息泄露漏洞.md
      *  CVE-2026-22812：OpenCode 远程代码执行漏洞.md
      *  CVE-2026-23760：SmarterMail force-reset-password 权限绕过漏洞.md
+     *  OpenClaw Gateway 未授权访问漏洞.md
 
   - 2025.12
      *  CVE-2025-68477：Langflow 服务器端请求伪造漏洞.md
