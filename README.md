@@ -7,6 +7,10 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2026.02
+     *  CVE-2025-64111：Gogs 符号连接致代码执行漏洞.md
+     *  CVE-2026-1731：BeyondTrust Remote Support 命令注入漏洞.md
+
   - 2026.01
      *  CVE-2025-67303：ComfyUI-Manager API 未授权访问漏洞.md
      *  CVE-2025-68493：Apache Struts XWork 组件 XML外部实体注入漏洞.md
@@ -159,10 +163,12 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
   - 2024.07
      *  CVE-2024-36991：Splunk Enterprise Windows平台 messaging 目录遍历漏洞.md
+     *  .DS_Store
      *  CVE-2024-6387：OpenSSH Server 远程代码执行漏洞.md
      *  CVE-2024-36401：GeoServer property 表达式注入代码执行漏洞.md
      *  CVE-2024-23321：Apache RocketMQ 敏感信息泄露漏洞.md
      *  CVE-2024-6730：SparkShop存在任意文件上传漏洞.md
+     *  CVE-2024-39931：Gogs 允许非特权用户删除内部文件.md
      *  CVE-2024-3807：Windows 远程桌面授权服务 远程代码执行漏洞.md
      *  CVE-2024-37084：Spring Cloud Data Flow 远程代码执行漏洞.md
 
