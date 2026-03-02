@@ -9,6 +9,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 ## 0x01 项目导航
   - 2026.02
      *  CVE-2025-64111：Gogs 符号连接致代码执行漏洞.md
+     *  青龙面板权限绕过致代码执行漏洞.md
      *  CVE-2026-1731：BeyondTrust Remote Support 命令注入漏洞.md
 
   - 2026.01
