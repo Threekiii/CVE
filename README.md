@@ -7,6 +7,13 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2026.03
+     *  CVE-2026-27944：Nginx UI 备份文件泄漏漏洞.md
+     *  CVE-2026-31816：Budibase <= 3.31.4 身份验证绕过漏洞.md
+     *  CVE-2026-25887：Chartbrew < 4.8.1 MongoDB 查询 RCE 漏洞.md
+     *  CVE-2026-27971：Qwik server$ RPC 反序列化漏洞.md
+     *  CVE-2026-28472：OpenClaw < 2026.2.2 身份验证绕过漏洞.md
+
   - 2026.02
      *  CVE-2026-20127：Cisco Catalyst SD-WAN 身份验证绕过漏洞.md
      *  CVE-2025-64111：Gogs 符号连接致代码执行漏洞.md
@@ -223,6 +230,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  2023-12 补丁日：微软多个漏洞安全更新通告.md
 
   - 2023.11
+     *  CVE-2023-49103：OwnCloud 敏感信息泄漏漏洞.md
      *  CVE-2023-4357：Google Chrome 信息泄露漏洞通告.md
      *  CVE-2023-6345：Google Chrome skia整数溢出漏洞通告.md
      *  CVE-2023-22518：Atlassian Confluence身份认证绕过漏洞通告.md
