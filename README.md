@@ -22,6 +22,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
      *  CVE-2026-1731：BeyondTrust Remote Support 命令注入漏洞.md
 
   - 2026.01
+     *  CVE-2026-22777：ComfyUI-Manager 在配置处理程序中容易受到 CRLF 注入的影响.md
      *  CVE-2025-67303：ComfyUI-Manager API 未授权访问漏洞.md
      *  CVE-2025-68493：Apache Struts XWork 组件 XML外部实体注入漏洞.md
      *  CVE-2026-21962：Oracle WebLogic Server Proxy Plug-in 身份认证绕过漏洞.md
