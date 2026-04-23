@@ -8,10 +8,10 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 ## 0x01 项目导航
   - 2026.04
-     *  Apache ActiveMQ jolokia 代码执行漏洞 CVE-2026-34197.md
      *  Xinference 2.6.0-2.6.2 供应链投毒事件.md
+     *  CVE-2026-34197：Apache ActiveMQ jolokia 代码执行漏洞.md
+     *  CVE-2026-34486：Apache Tomcat 集群加密拦截器绕过反序列化代码执行漏洞.md
      *  Langflow autologin 致 access_token 泄漏.md
-     *  Apache Tomcat 集群加密拦截器绕过反序列化代码执行漏洞 CVE-2026-34486.md
 
   - 2026.03
      *  CVE-2026-27944：Nginx UI 备份文件泄漏漏洞.md
