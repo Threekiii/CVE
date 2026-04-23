@@ -7,11 +7,21 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2026.04
+     *  Apache ActiveMQ jolokia 代码执行漏洞 CVE-2026-34197.md
+     *  Xinference 2.6.0-2.6.2 供应链投毒事件.md
+     *  Langflow autologin 致 access_token 泄漏.md
+     *  Apache Tomcat 集群加密拦截器绕过反序列化代码执行漏洞 CVE-2026-34486.md
+
   - 2026.03
      *  CVE-2026-27944：Nginx UI 备份文件泄漏漏洞.md
+     *  axios 0.30.4 和 1.14.1 供应链投毒事件.md
+     *  Telnyx Python API library 4.87.1 & 4.82.2 供应链投毒漏洞.md
+     *  Litellm 2026.3.24 供应链投毒事件.md
      *  CVE-2026-31816：Budibase <= 3.31.4 身份验证绕过漏洞.md
      *  CVE-2026-25887：Chartbrew < 4.8.1 MongoDB 查询 RCE 漏洞.md
      *  CVE-2026-27971：Qwik server$ RPC 反序列化漏洞.md
+     *  CVE-2026-33017：Langflow public flow 远程代码执行漏洞.md
      *  CVE-2026-28472：OpenClaw < 2026.2.2 身份验证绕过漏洞.md
 
   - 2026.02
