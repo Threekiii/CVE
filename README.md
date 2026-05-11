@@ -7,11 +7,16 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 📖 一个 CVE 漏洞预警知识库，无 exp/poc，部分包含修复方案。_A knowledge base of CVE security vulnerability, no PoCs/exploits._
 
 ## 0x01 项目导航
+  - 2026.05
+     *  CVE-2026-43284：Linux kernel xfrm-ESP Dirty Frag 本地提权漏洞.md
+
   - 2026.04
      *  Xinference 2.6.0-2.6.2 供应链投毒事件.md
      *  CVE-2026-34197：Apache ActiveMQ jolokia 代码执行漏洞.md
      *  CVE-2026-34486：Apache Tomcat 集群加密拦截器绕过反序列化代码执行漏洞.md
      *  Langflow autologin 致 access_token 泄漏.md
+     *  CVE-2026-31431：Linux Copy Fail 本地提权漏洞.md
+     *  PyTorch Lightning 2.6.2 & 2.6.3 供应链投毒事件.md
 
   - 2026.03
      *  CVE-2026-27944：Nginx UI 备份文件泄漏漏洞.md
